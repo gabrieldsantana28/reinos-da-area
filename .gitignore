@@ -1,0 +1,10 @@
+# Godot
+.godot/
+*.translation
+export_credentials.cfg
+# Builds locais (executáveis vão em Releases; a versão Web fica em docs/)
+build/
+*.zip
+# Sistema
+.DS_Store
+Thumbs.db
